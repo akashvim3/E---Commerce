@@ -20,13 +20,6 @@ Welcome to the E-Commerce Website repository! This project is a modern, fully re
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Product Details | Cart Page | Checkout Page |
-|-----------|------------------|-----------|---------------|
-| ![Home Page](https://via.placeholder.com/300x200) | ![Product Details](https://via.placeholder.com/300x200) | ![Cart Page](https://via.placeholder.com/300x200) | ![Checkout Page](https://via.placeholder.com/300x200) |
-
----
 
 ## 🚀 Tech Stack
 
@@ -63,7 +56,7 @@ Make sure you have the following installed:
 
 2. View the live demo:
 
-   [Live Demo](https://your-demo-link.com)
+   [Live Demo](https://akashvim3.github.io/E---Commerce/)
 
 ---
 
